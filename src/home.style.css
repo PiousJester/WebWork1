@@ -1,0 +1,22 @@
+body{
+     margin:0 auto;
+     width:1200px;
+     height: 2250px;
+     background-color: black;
+ }
+.div1
+{
+    width:1200px;
+    height:88px;
+    background-color: #2a3743;
+}
+.img1
+{
+    margin-top: 0px;
+    margin-left: 130px;
+}
+.img2
+{
+    margin-top: 0;
+    margin-left:10px;
+}
