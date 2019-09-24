@@ -54,3 +54,38 @@ body{
     margin-left: 29px;
     margin-top: 34px;
 }
+.div2{
+    background-color: #3b4e5f;
+    height: 367px;
+    width: 1200px;
+}
+.div3{
+    background: url("../img/bg1.png");
+    height: 86px;
+    width: 1200px;
+}
+.div4{
+    height: 367px;
+    width: 1200px;
+}
+.div5{
+    background: url("../img/bg.png");
+    height: 365px;
+    width: 1200px;
+}
+.div6{
+    height: 614px;
+    width: 1200px;
+}
+.div7{
+    background: url("../img/footer-bg.png");
+    height: 295px;
+    width: 1200px;
+}
+.div7 p{
+    margin-top: 50px;
+    margin-left: 129px;
+    font-size: 16px;
+    font-family: Arial;
+    font-weight: bold;
+}
